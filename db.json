@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "Sujon Ahmed",
+      "email": "sujonahmed@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Riman Ahmed",
+      "email": "riman@gmail.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "Jack",
+      "email": "jack@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "Ahmed Sujon",
+      "email": "ahmed@gmail.com",
+      "password": "123456",
+      "id": 5
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "KFC",
+      "address": "Dhaka",
+      "contact": "111111",
+      "id": 1
+    },
+    {
+      "name": "Burger King",
+      "address": "Khulna, Bangladesh",
+      "contact": 333333,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Chabella",
+      "address": "Mohammadpur",
+      "contact": 555555
+    }
+  ]
+}
