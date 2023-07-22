@@ -12,7 +12,12 @@ npm install
 npm run serve
 ```
 
-### Run json-server for storing & fetching user-info & restaurant info
+### Install JSON Server
+```
+npm install -g json-server
+```
+
+### Start JSON Server
 
 ```
 json-server --watch db.json
@@ -29,6 +34,9 @@ npm run build
 ```
 npm run lint
 ```
+
+### Learn more about JSON Server
+[JSON Server Getting Started](https://www.npmjs.com/package/json-server#getting-started)
 
 ### Customize configuration
 
